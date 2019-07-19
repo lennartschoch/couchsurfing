@@ -1,0 +1,12 @@
+{
+  "name": "Couchsurfing",
+  "version": "1.0",
+  "description": "A chrome extension that changes every font to IKEA Soffa Sans.",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["fontchanger.js"]
+    }
+  ],
+  "manifest_version": 2
+}
