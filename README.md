@@ -9,3 +9,5 @@ So IKEA released this font called Soffa (or Vallentuna) Sans, which entirely con
 1. Enjoy a better internet
 
 **Note: Due to copyright reasons, you"ll need to install the font from [here](https://rabbitholetestorch001.blob.core.windows.net/plugins/SOFFA-VALLENTUNA/IKEA-SOFFA-VALLENTUNA-Sans.zip) before you can use the plugin.**
+
+some things
